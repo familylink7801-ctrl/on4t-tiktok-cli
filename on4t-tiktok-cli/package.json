@@ -1,0 +1,13 @@
+{
+  "name": "on4t-tiktok-cli",
+  "version": "1.0.0",
+  "description": "CLI tool for free TikTok views via on4t.com",
+  "type": "module",
+  "bin": {
+    "on4t": "./on4t-cli.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0"
+  }
+}
